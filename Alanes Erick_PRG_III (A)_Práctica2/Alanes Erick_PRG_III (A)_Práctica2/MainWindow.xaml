@@ -1,0 +1,18 @@
+﻿<Window x:Class="Alanes_Erick_PRG_III__A__Práctica2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Alanes_Erick_PRG_III__A__Práctica2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="680" Width="528">
+    <Grid>
+        <ListBox x:Name="lstMenu" Margin="28,26,334,30"/>
+        <Button x:Name="btnShow" Content="Show" FontSize="17" HorizontalAlignment="Center" Margin="0,243,0,0" VerticalAlignment="Top" Height="44" Width="86" Click="btnShow_Click"/>
+        <CheckBox x:Name="cbxCarne" Content="Carne" HorizontalAlignment="Left" FontSize="16" Margin="335,28,0,0" VerticalAlignment="Top" Width="90"/>
+        <CheckBox x:Name="cbxPapa" Content="Papa" HorizontalAlignment="Left" FontSize="16" Margin="335,58,0,0" VerticalAlignment="Top" Width="90"/>
+        <CheckBox x:Name="cbxVerdura" Content="Verdura" HorizontalAlignment="Left" FontSize="16" Margin="335,88,0,0" VerticalAlignment="Top" Width="90"/>
+        <CheckBox x:Name="cbxArroz" Content="Arroz" HorizontalAlignment="Left" FontSize="16" Margin="335,115,0,0" VerticalAlignment="Top" Width="90"/>
+
+    </Grid>
+</Window>

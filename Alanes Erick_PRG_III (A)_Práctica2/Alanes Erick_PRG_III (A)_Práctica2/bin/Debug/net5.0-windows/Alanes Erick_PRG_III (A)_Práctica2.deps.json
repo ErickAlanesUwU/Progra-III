@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Alanes Erick_PRG_III (A)_Práctica2/1.0.0": {
+        "runtime": {
+          "Alanes Erick_PRG_III (A)_Práctica2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alanes Erick_PRG_III (A)_Práctica2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
