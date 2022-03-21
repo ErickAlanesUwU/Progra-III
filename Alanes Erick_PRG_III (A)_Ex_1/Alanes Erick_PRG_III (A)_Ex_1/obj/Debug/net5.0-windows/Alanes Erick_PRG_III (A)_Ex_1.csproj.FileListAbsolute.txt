@@ -1,0 +1,22 @@
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.exe
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.deps.json
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.runtimeconfig.json
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.runtimeconfig.dev.json
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.dll
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\ref\Alanes Erick_PRG_III (A)_Ex_1.dll
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\bin\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.pdb
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.csproj.AssemblyReference.cache
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\App.g.cs
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1_MarkupCompile.cache
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1_MarkupCompile.lref
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\MainWindow.baml
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.g.resources
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.AssemblyInfoInputs.cache
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.AssemblyInfo.cs
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.csproj.CoreCompileInputs.cache
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.dll
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\ref\Alanes Erick_PRG_III (A)_Ex_1.dll
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.pdb
+F:\Alanes Erick_PRG_III (A)_Ex_1\Alanes Erick_PRG_III (A)_Ex_1\obj\Debug\net5.0-windows\Alanes Erick_PRG_III (A)_Ex_1.genruntimeconfig.cache
